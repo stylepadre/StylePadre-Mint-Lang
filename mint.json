@@ -1,0 +1,26 @@
+{
+  "name": "StylePadre",
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ],
+  "application":{
+    "name":"StylePadre",
+    "title":"StylePadre - Una libreria del lenguaje refrescante Mint-Lang",
+    "orientation": "portrait",
+    "meta": {
+      "og:title":"StylePadre",
+      "og:description":"StylePadre - Una libreria del lenguaje refrescante Mint-Lang",
+      "charset":"utf-8",
+      "description":"StylePadre - Una libreria del lenguaje refrescante Mint-Lang",
+      "keywords":[
+        "StylePadre",
+        "Mint-Lang"
+      ],
+            
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+  }
+}
+}
